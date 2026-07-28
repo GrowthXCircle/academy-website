@@ -88,9 +88,9 @@ src/
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+## Use as a template
 
-This project is proprietary software for Excel Edge Academy.
+You can use this code as a template for building your own website. Replace the demo branding, content, contact details, and images before publishing.
 
 ## 📞 Contact
 
